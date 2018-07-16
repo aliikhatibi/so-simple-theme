@@ -16,10 +16,10 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Ali Khatibi's Personal Page"
+description: "Here you can find latest information about Ali Khatibi's research and publications."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://aliikhatibi.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -33,7 +33,7 @@ google_fonts:
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
+twitter: "https://twitter.com/AliiKhatibi"
   username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
@@ -51,7 +51,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: True # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -85,12 +85,12 @@ defaults:
       layout: post
       share: true
 
-# Site Author
-author:
-  name:
-  picture:
-  email:
-  twitter:
+# Site Owner
+owner:
+  name: Ali Khatibi
+  picture: /images/ali.jpg
+  email: ali.khatibi@gmail.com
+  twitter: AliiKhatibi
   links:
     - title:
       url:
