@@ -74,6 +74,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 # Front Matter Defaults
 defaults:
